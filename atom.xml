@@ -1,0 +1,74 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+  <title>当个人吧</title>
+  
+  <subtitle>Dang</subtitle>
+  <link href="/atom.xml" rel="self"/>
+  
+  <link href="http://remember-them.github.io/"/>
+  <updated>2019-10-13T09:43:09.048Z</updated>
+  <id>http://remember-them.github.io/</id>
+  
+  <author>
+    <name>wink</name>
+    
+  </author>
+  
+  <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>给你的博客带来点活力(live2D模型)</title>
+    <link href="http://remember-them.github.io/2019/10/13/%E7%BB%99%E4%BD%A0%E7%9A%84%E7%BD%91%E7%AB%99%E5%B8%A6%E6%9D%A5%E7%82%B9%E6%B4%BB%E5%8A%9B-live2d%E6%A8%A1%E5%9E%8B/"/>
+    <id>http://remember-them.github.io/2019/10/13/给你的网站带来点活力-live2d模型/</id>
+    <published>2019-10-13T08:57:43.000Z</published>
+    <updated>2019-10-13T09:43:09.048Z</updated>
+    
+    <summary type="html">
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Hello World</title>
+    <link href="http://remember-them.github.io/2019/10/12/hello-world/"/>
+    <id>http://remember-them.github.io/2019/10/12/hello-world/</id>
+    <published>2019-10-12T02:43:31.671Z</published>
+    <updated>2019-10-12T02:43:31.671Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Welcome to &lt;a href=&quot;https://hexo.io/&quot; target=&quot;_blank&quot; rel=&quot;noopener&quot;&gt;Hexo&lt;/a&gt;! This is your very first post. Check &lt;a href=&quot;https://hexo.
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Java面向对象总结</title>
+    <link href="http://remember-them.github.io/2019/10/11/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%80%BB%E7%BB%93/"/>
+    <id>http://remember-them.github.io/2019/10/11/Java面向对象总结/</id>
+    <published>2019-10-11T08:21:40.000Z</published>
+    <updated>2019-10-13T13:39:20.963Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h1 id=&quot;面向对象总结&quot;&gt;&lt;a href=&quot;#面向对象总结&quot; class=&quot;headerlink&quot; title=&quot;面向对象总结&quot;&gt;&lt;/a&gt;面向对象总结&lt;/h1&gt;&lt;h3 id=&quot;第二章-类和对象&quot;&gt;&lt;a href=&quot;#第二章-类和对象&quot; class=&quot;headerlink&quot; 
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+</feed>
