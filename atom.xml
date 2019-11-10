@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://remember-them.github.io/"/>
-  <updated>2019-11-10T10:12:04.875Z</updated>
+  <updated>2019-11-10T16:30:28.244Z</updated>
   <id>https://remember-them.github.io/</id>
   
   <author>
@@ -15,6 +15,26 @@
   </author>
   
   <generator uri="http://hexo.io/">Hexo</generator>
+  
+  <entry>
+    <title>JDBC链接数据库</title>
+    <link href="https://remember-them.github.io/2019/11/10/JDBC%E9%93%BE%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
+    <id>https://remember-them.github.io/2019/11/10/JDBC链接数据库/</id>
+    <published>2019-11-10T15:58:25.000Z</published>
+    <updated>2019-11-10T16:30:28.244Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;jsp连接数据库的步骤&quot;&gt;&lt;a href=&quot;#jsp连接数据库的步骤&quot; class=&quot;headerlink&quot; title=&quot;jsp连接数据库的步骤&quot;&gt;&lt;/a&gt;jsp连接数据库的步骤&lt;/h2&gt;&lt;h3 id=&quot;1-首先创建一个新的jsp文件和数据表&quot;&gt;&lt;a href=
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
   
   <entry>
     <title>eclipse用JDBC链接数据库</title>
