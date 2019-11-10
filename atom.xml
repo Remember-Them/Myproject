@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://remember-them.github.io/"/>
-  <updated>2019-11-01T09:30:22.649Z</updated>
+  <updated>2019-11-10T10:12:04.875Z</updated>
   <id>https://remember-them.github.io/</id>
   
   <author>
@@ -17,11 +17,49 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
+    <title>eclipse用JDBC链接数据库</title>
+    <link href="https://remember-them.github.io/2019/11/10/Tomcat%E9%85%8D%E7%BD%AE%E8%BF%9E%E6%8E%A5%E6%B1%A0%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/"/>
+    <id>https://remember-them.github.io/2019/11/10/Tomcat配置连接池数据库连接池/</id>
+    <published>2019-11-10T09:50:07.000Z</published>
+    <updated>2019-11-10T10:12:04.875Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;p&gt;Tomcat6的服务器配置文件放在 ${tomcat6}/conf 目录底下。我们可以在这里找到 server.xml 和 context.xml。当然，还有其他一些资源文件。但是在在本文中我们只用得上这两个，其他的就不介绍了。 &lt;/p&gt;
+&lt;h2 id=&quot;1-添加jar包&quot;
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>Mysql命令</title>
+    <link href="https://remember-them.github.io/2019/11/10/Mysql%E5%91%BD%E4%BB%A4/"/>
+    <id>https://remember-them.github.io/2019/11/10/Mysql命令/</id>
+    <published>2019-11-10T09:46:57.000Z</published>
+    <updated>2019-11-10T10:18:14.745Z</updated>
+    
+    <summary type="html">
+    
+      &lt;p&gt;数据库Mysql的操作指令&lt;/p&gt;
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
     <title>eclipse链接Tomcat服务器</title>
     <link href="https://remember-them.github.io/2019/11/01/eclipse%E9%93%BE%E6%8E%A5Tomcat%E6%9C%8D%E5%8A%A1%E5%99%A8/"/>
     <id>https://remember-them.github.io/2019/11/01/eclipse链接Tomcat服务器/</id>
     <published>2019-11-01T08:14:18.000Z</published>
-    <updated>2019-11-01T09:30:22.649Z</updated>
+    <updated>2019-11-10T10:22:19.751Z</updated>
     
     <summary type="html">
     
@@ -45,7 +83,7 @@
     <link href="https://remember-them.github.io/2019/10/13/Java%E9%9D%A2%E5%90%91%E5%AF%B9%E8%B1%A1%E6%80%BB%E7%BB%93/"/>
     <id>https://remember-them.github.io/2019/10/13/Java面向对象总结/</id>
     <published>2019-10-13T08:21:40.000Z</published>
-    <updated>2019-10-13T14:04:57.347Z</updated>
+    <updated>2019-11-10T09:44:45.226Z</updated>
     
     <summary type="html">
     
