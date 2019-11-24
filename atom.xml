@@ -6,7 +6,7 @@
   <link href="/atom.xml" rel="self"/>
   
   <link href="https://remember-them.github.io/"/>
-  <updated>2019-11-10T16:30:28.244Z</updated>
+  <updated>2019-11-24T04:44:58.631Z</updated>
   <id>https://remember-them.github.io/</id>
   
   <author>
@@ -17,11 +17,31 @@
   <generator uri="http://hexo.io/">Hexo</generator>
   
   <entry>
-    <title>JDBC链接数据库</title>
-    <link href="https://remember-them.github.io/2019/11/10/JDBC%E9%93%BE%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93/"/>
-    <id>https://remember-them.github.io/2019/11/10/JDBC链接数据库/</id>
+    <title>Bootstrap;</title>
+    <link href="https://remember-them.github.io/2019/11/24/Bootstrap/"/>
+    <id>https://remember-them.github.io/2019/11/24/Bootstrap/</id>
+    <published>2019-11-24T02:52:29.000Z</published>
+    <updated>2019-11-24T04:44:58.631Z</updated>
+    
+    <summary type="html">
+    
+      
+      
+        &lt;h2 id=&quot;Bootstrap&quot;&gt;&lt;a href=&quot;#Bootstrap&quot; class=&quot;headerlink&quot; title=&quot;Bootstrap&quot;&gt;&lt;/a&gt;Bootstrap&lt;/h2&gt;&lt;p&gt;Bootstrap是一个前端的框架  其中包含有CSS和Javascript 可以简
+      
+    
+    </summary>
+    
+    
+    
+  </entry>
+  
+  <entry>
+    <title>JDBC链接数据库的5个步骤</title>
+    <link href="https://remember-them.github.io/2019/11/10/JDBC%E9%93%BE%E6%8E%A5%E6%95%B0%E6%8D%AE%E5%BA%93%E7%9A%845%E4%B8%AA%E6%AD%A5%E9%AA%A4/"/>
+    <id>https://remember-them.github.io/2019/11/10/JDBC链接数据库的5个步骤/</id>
     <published>2019-11-10T15:58:25.000Z</published>
-    <updated>2019-11-10T16:30:28.244Z</updated>
+    <updated>2019-11-24T03:42:08.123Z</updated>
     
     <summary type="html">
     
@@ -37,11 +57,11 @@
   </entry>
   
   <entry>
-    <title>eclipse用JDBC链接数据库</title>
-    <link href="https://remember-them.github.io/2019/11/10/Tomcat%E9%85%8D%E7%BD%AE%E8%BF%9E%E6%8E%A5%E6%B1%A0%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/"/>
-    <id>https://remember-them.github.io/2019/11/10/Tomcat配置连接池数据库连接池/</id>
+    <title>Tomcat配置数据库连接池</title>
+    <link href="https://remember-them.github.io/2019/11/10/Tomcat%E9%85%8D%E7%BD%AE%E6%95%B0%E6%8D%AE%E5%BA%93%E8%BF%9E%E6%8E%A5%E6%B1%A0/"/>
+    <id>https://remember-them.github.io/2019/11/10/Tomcat配置数据库连接池/</id>
     <published>2019-11-10T09:50:07.000Z</published>
-    <updated>2019-11-10T10:12:04.875Z</updated>
+    <updated>2019-11-24T03:41:01.067Z</updated>
     
     <summary type="html">
     
